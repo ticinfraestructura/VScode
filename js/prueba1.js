@@ -19,3 +19,4 @@ else {
 }   
 console.log (saludar(1, "Mundillo"));
 console.log (saludar(2, "Mundillo"));
+console.log (saludar(3, "Mundillo cruel con mi Github"));
