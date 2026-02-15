@@ -20,3 +20,7 @@ else {
 console.log (saludar(1, "Mundillo"));
 console.log (saludar(2, "Mundillo"));
 console.log (saludar(3, "Mundillo cruel con mi Github"));
+/* esta es una modificaion en la nueva rama para probar el merge con la rama main, espero que se haga correctamente y no haya conflictos, ya que es un cambio menor en el código.
+dfdfd
+f
+df*/
