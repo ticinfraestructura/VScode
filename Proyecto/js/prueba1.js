@@ -5,14 +5,14 @@ console.log(saludar(xx));   console.log("Hola, este es un mensaje de prueba en J
 for (let i = 0; i < 5; i++) {
     console.log("Número: " + i);
 }
-function saludar( claseSaludo, nombre) {
+function saludar( claseSaludo=1, nombre) {
     if (claseSaludo === 1) {
-        console.log("Clase de saludo: " + claseSaludo);
+        //console.log("Clase de saludo: " + claseSaludo);
            return "Hola, " + nombre + "!"; 
     }
 
 else {
-        console.log("Clase de saludo: " + claseSaludo);
+        //console.log("Clase de saludo: " + claseSaludo);
         return "¡Adiós, " + nombre + "!";
 }
     
